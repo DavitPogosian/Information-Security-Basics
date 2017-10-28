@@ -1,0 +1,3 @@
+# Create a repository at github
+# Commit a basic LaTeX template
+# install LaTeX
