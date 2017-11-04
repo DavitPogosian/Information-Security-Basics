@@ -1,3 +1,4 @@
 # Create a repository at github
-# Commit a basic LaTeX template
 # install LaTeX
+# Commit a basic LaTeX template
+# Find out what is repackaging 
